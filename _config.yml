@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 # Site Settings
 title: "FOSS4GNL 2019"
 email: "foss4g@osgeo.nl"
-description: "FOSS4G"
-baseurl: "foss4gnl"
-url: "https://3d.bk.tudelft.nl"
+description: "FOSS4GNL conference website 2019"
+baseurl: ""
+url: "https://tudelft3d.github.io/foss4gnl"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
