@@ -42,19 +42,19 @@ navigationLinks:
 # - {permalink: "/photos/", text: "Foto's"}
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
-  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 rightNavigationButtons:
-  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # Hero Block
 heroImage: "tudelf_bag3d_small.jpg"
 heroTitle: "FOSS4GNL 2019"
-eventDate: "20 juni 2019 - Technische Universiteit Delft - Faculteit Bouwkunde"
+eventDate: "20 juni 2019 - Technische Universiteit Delft"
 heroButtons:
   - {permalink: "/becomeaspeaker/", text: "Become a speaker"}
-  - {link: "https://www.eventbrite.nl/", text: "Aanmelden"}
+  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
   #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # About Block
@@ -103,7 +103,7 @@ ticketsOffers:
   price: "15"
   priceCurrency: "Euro"
   ticketsNumber: "?"
-  buyButtonLink: "https://www.eventbrite.nl/"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   soldOut: false
@@ -115,7 +115,7 @@ ticketsOffers:
   price: "50"
   priceCurrency: "Euro"
   ticketsNumber: "?"
-  buyButtonLink: "https://www.eventbrite.nl/"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   soldOut: false
