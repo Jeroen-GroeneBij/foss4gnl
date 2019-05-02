@@ -86,6 +86,8 @@ eventStartTime: "2019-06-20T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2019-06-20T18:00"
 eventPlaceCoordinates: "52.005694, 4.370651"
+eventPlaceLongitude: 4.370651
+eventPlaceLatitude: 52.005694
 mapCenterCoordinates: "52.005694, 4.370651"
 mapMobileCenterCoordinates: "52.005694, 4.370651"
 

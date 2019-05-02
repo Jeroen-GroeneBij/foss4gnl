@@ -11,8 +11,8 @@
                 style: 'standaard',
                 target: 'nlmaps-holder',
                 center: {
-                    longitude: 4.370651,
-                    latitude: 52.005694, 
+                    longitude: {{ site.eventPlaceLongitude }},
+                    latitude: {{ site.eventPlaceLatitude }}, 
                 },
                 overlay: 'false',
                 marker: false,
@@ -22,8 +22,8 @@
 
             var map = nlmaps.createMap(opts);
              
-            var marker = L.marker([52.005694, 4.370651]).addTo(map);
-            marker.bindPopup("<strong>Technische Universiteit Delft</strong><br>Julianalaan 134<br>Delft").openPopup();
+            var marker = L.marker([{{ site.eventPlaceLatitude }}, {{ site.eventPlaceLongitude }}]).addTo(map);
+            marker.bindPopup("<strong>{{ site.eventLocationName }}</strong><br>{{ site.eventStreetAddress }} {{ site.eventAddressLocality }}").openPopup();
                 
             map.scrollWheelZoom.disable();
                 
