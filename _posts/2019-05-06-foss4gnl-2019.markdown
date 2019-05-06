@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Een nieuwe FOSS4GNL in 2019!"
+date:   2019-05-06 10:00:00
+isStaticPost: false
+---
+
+Welkom bij de FOSS4GNL! Dit jaar hopen we je te begroeten aan de Technische Universiteit in het mooie Delft voor een leuk en hopelijk bovenal interessant programma. Dit jaar is de FOSS4G weer een eendaags evenement. 
+
+Meer informatie? Kijk gerust rond op de site, binnenkort volgt er meer info over het programma. Voorlopig kan je nog (tot 15 mei) presentaties aanleveren.
+
+Tot 20 juni in Delft! Wij hopen jullie daar te zien.
+
+De organisatie van de FOSS4GNL
