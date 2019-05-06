@@ -93,8 +93,8 @@ ticketsInfo: ""
 ticketsOffers:
  -
   name: "Conferentiedag 20 juni"
-  price: "15"
-  priceCurrency: "Euro"
+  price: ""
+  priceCurrency: "Donatie"
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
@@ -105,8 +105,8 @@ ticketsOffers:
   validThrough: "2019-06-20T00:00"
  -
   name: "Golden ticket 20 juni"
-  price: "50"
-  priceCurrency: "Euro"
+  price: ""
+  priceCurrency: "Donatie"
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
