@@ -85,7 +85,9 @@ mapMobileCenterCoordinates: "52.005694, 4.370651"
 # Partners Block
 organizersTitle: ""
 partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Wordt een sponsor"
+becomeSponsorLink: "mailto:foss4g@osgeo.nl"
+sponsorsButtonText: "Wordt een sponsor"
+
 
 # Tickets Block
 ticketsTitle: "Prijslijst"
@@ -98,7 +100,6 @@ ticketsOffers:
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   soldOut: false
   soldOutText: "Uitverkocht"
   validFrom: "2019-04-23T00:00"
@@ -110,7 +111,6 @@ ticketsOffers:
   ticketsNumber: "?"
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598"
   buyButtonText: "Koop nu"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   soldOut: false
   soldOutText: "Uitverkocht"
   validFrom: "2019-04-23T00:00"
@@ -130,7 +130,7 @@ footerBlocks:
  -
   title: "Contact"
   links:
-   - {link: "mailto:info@osgeo.nl", text: "info@osgeo.nl"}
+   - {link: "mailto:foss4g@osgeo.nl", text: "foss4g@osgeo.nl"}
  -
   title: "FAQ"
   links:
