@@ -3,12 +3,6 @@
   title: "Registratie"
   service: true
 -
-  id: 801
-  title: "Keynote"
-  subtype: presentation
-  description: ""
-  speakers: [2]
--
   id: 802
   title: "Koffie"
   service: true
@@ -25,22 +19,118 @@
   title: "pres1"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [0]
 -
   id: 200
   title: "pres2"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [0]
 -
   id: 300
   title: "pres3"
   description: ""
   subtype: presentation
-  speakers: [1]
+  speakers: [0]
 -
   id: 400
   title: "pres4"
   description: ""
   subtype: presentation
+  speakers: [0]
+-
+  id: 901
+  title: "Opening keynote"
+  subtype: presentation
+  description: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
+standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
+Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
   speakers: [1]
+-
+  id: 902
+  title: "Keynote 2"
+  subtype: presentation
+  description: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
+  speakers: [2]
+-
+  id: 903
+  title: "Keynote 3"
+  subtype: presentation
+  description: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
+bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
+(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
+communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
+  speakers: [3]
+-
+  id: 0
+  title: "Terabytes aan wegdata in je database. Wat doe je ermee?"
+  description: "Met behulp van postgis, clickhousedb en een beetje R laat ik zien wat de mogelijkheden van de database zijn voor het analyseren van grote hoeveelheden sensor/verkeersdata. Veel datavis en een beetje SQL komen aan bod."
+  subtype: presentation
+  speakers: [4]
+-
+  id: 0
+  title: "QGIS plugins for hydrology"
+  description: "QGIS 3 has many useful features and plugins for hydrologists. Inspired by questions from students at IHE Delft Institute for Water Education, two new plugins were developed at the QGIS Hackfest in A Coruña in March 2019.
+This presentation will give an overview of the state of the art of hydrological tools in QGIS, online resources and how to contribute to further development of the tools."
+  subtype: presentation
+  speakers: [5]
+-
+  id: 0
+  title: "Effe QGIS naar het Nederlands vertalen..."
+  description: ""
+  subtype: presentation
+  speakers: [6]
+-
+  id: 0
+  title: "Wat we van esri kunnen leren..."
+  description: "Veel opensource-GIS software behoort tot de beste in de wereld, en is nog gratis ook. Toch wordt op veel plekken voor veel geld producten van proprietary leveranciers aangeschaft en gebruikt.
+
+Naar onze mening komt dat vooral door de diensten van deze leveranciers. Zo komen ze vertellen welke software je nodig hebt voor je probleem, hoe je de software kunt inzetten in je bedrijfsprocessen en kunt integreren met andere software. Er is een helpdesk die je kunt bellen als je een probleem hebt en bij elk softwareproduct hoort een training. Daarmee ontzorgen de softwareleveranciers hun klanten.
+
+LandGoed wil voor opensource-GIS die rol als leverancier vervullen, en organisaties en gebruikers ontzorgen. 
+
+Hoe we dat denken te doen en hoe we daarbij om willen gaan met de community? Daar hebben we allerlei ideeën over. We leggen ze uit op 20 juni. En horen dan graag van jou of dat goede ideeën zijn, of dat het misschien nog beter kan."
+  subtype: presentation
+  speakers: [7]
+-
+  id: 0
+  title: "LandGoed QGIS-NL: Meer dan de som der delen"
+  description: "QGIS vormt een open systeem. Je kunt er allerlei dingen aan toevoegen, maar ook uit verwijderen. Dit geeft de ruimte om QGIS helemaal toe te snijden op een specifieke toepassing. Wij geloven dat het op maat snijden van QGIS zichzelf in een organisatie altijd terugverdient.
+
+Voor Nederlandse toepassingen hebben we daar vast een begin mee gemaakt. Door het combineren van allerlei code in de vorm van open plugins, het maken van eigen plugins (ook open) en nog wat code fragmenten uit het publieke domein, met een slimme configuratie en redactie op inhoud, hebben we nu QGIS-NL.
+
+In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem hebben gemaakt uit open componenten, en hoe we omgaan met het delen van onze eigen toevoegingen. Onderweg leer je gelijk in QGIS werken met Ruimtelijke Plannen, de BGT en het soepel gebruiken van de BAG WFS."
+  subtype: presentation
+  speakers: [8]
+-
+  id: 0
+  title: "Geo datavisualisations in D3.js & DeckGL"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+-
+  id: 0
+  title: "Fantasy maps"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+-
+  id: 0
+  title: "Spatial in R"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+-
+  id: 0
+  title: "Google Earth Engine"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+-
+  id: 0
+  title: "Wat doet een aannemer met Open Source GIS?"
+  description: ""
+  subtype: presentation
+  speakers: [13]

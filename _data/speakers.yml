@@ -1,14 +1,162 @@
 -
   id: 1
-  name: "Naam"
-  surname: "Achternaam"
-  company: "Bedrijf"
-  title: "Titel"
-  bio: "Biografie"
-  thumbnailUrl: x.jpg
+  name: "Athina"
+  surname: "Trakas"
+  company: "Open Geospatial Consortium"
+  title: "Director Regional Services"
+  bio: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
+standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
+Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
+  thumbnailUrl: placeholder.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
-    - {name: "site", link: ""}
-    - {name: "site", link: ""}
+  rockstar: true
+-
+  id: 2
+  name: "Edzer"
+  surname: "Pebesma"
+  company: "Universiteit van Münster"
+  title: "Professor of geoinformatics"
+  bio: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
+internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
+zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 3
+  name: "Lene"
+  surname: "Fischer"
+  company: "Universiteit van Kopenhagen"
+  title: "Associate Professor"
+  bio: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
+bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
+(u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
+communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
+  thumbnailUrl: LeneFischer.jpeg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 4
+  name: "Tom"
+  surname: "van Tilburg"
+  company: "Geodan"
+  title: ""
+  bio: ""
+  thumbnailUrl: TomVanTilburg.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 5
+  name: "Hans"
+  surname: "van der Kwast"
+  company: "Unesco IHE"
+  title: ""
+  bio: ""
+  thumbnailUrl: HansVanDerKwast.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 6
+  name: "Raymond"
+  surname: "Nijssent"
+  company: "Terglobo"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 7
+  name: "Erik"
+  surname: "Meerburg"
+  company: "LandGoed"
+  title: ""
+  bio: ""
+  thumbnailUrl: ErikMeerburg.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 8
+  name: "Marco"
+  surname: "Duiker"
+  company: "Terglobo"
+  title: ""
+  bio: ""
+  thumbnailUrl: MarcoDuiker.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 9
+  name: "Mirjam"
+  surname: "Leunissen"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "site", link: "http://dutchdatadesign.nl/"}
+  rockstar: true
+-
+  id: 10
+  name: "Martijn"
+  surname: "Kessler"
+  company: "Studio Kessler"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "site", link: "https://www.danielsmaps.com/"}
+    - {name: "site", link: "http://studiokessler.com/"}
+  rockstar: true
+-
+  id: 11
+  name: "Willy"
+  surname: "Tadema"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 12
+  name: "Gennadii"
+  surname: "Donchyts"
+  company: "Deltares"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 13
+  name: "Erna"
+  surname: "Oudman"
+  company: "Van Oord"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
