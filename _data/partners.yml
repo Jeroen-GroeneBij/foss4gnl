@@ -13,6 +13,12 @@
         link: "https://landgoed.it/", 
         imageUrl: "logo-landgoed.svg"
       }
+    - {
+        name: "Satelligence", 
+        description: "", 
+        link: "https://satelligence.com/", 
+        imageUrl: "logo-satelligence.png"
+      }
 -
   group: "Zilver"
   elements:
@@ -21,10 +27,4 @@
         description: "", 
         link: "https://www.webmapper.net", 
         imageUrl: "logo-webmapper.svg"
-      }
-    - {
-        name: "Satelligence", 
-        description: "", 
-        link: "https://satelligence.com/", 
-        imageUrl: "logo-satelligence.png"
       }
