@@ -120,8 +120,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   title: ""
   bio: ""
   thumbnailUrl: placeholder.jpg
-  social: 
-    - {name: "site", link: "https://www.danielsmaps.com/"}
+  social:
     - {name: "site", link: "http://studiokessler.com/"}
   rockstar: true
 -
