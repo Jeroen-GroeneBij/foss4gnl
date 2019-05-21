@@ -68,7 +68,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
 -
   id: 6
   name: "Raymond"
-  surname: "Nijssent"
+  surname: "Nijssen"
   company: "Terglobo"
   title: ""
   bio: ""
@@ -93,7 +93,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   id: 8
   name: "Marco"
   surname: "Duiker"
-  company: "Terglobo"
+  company: "LandGoed"
   title: ""
   bio: ""
   thumbnailUrl: MarcoDuiker.jpg
@@ -105,7 +105,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   id: 9
   name: "Mirjam"
   surname: "Leunissen"
-  company: ""
+  company: "De Volkskrant"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.jpg
@@ -128,7 +128,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   id: 11
   name: "Willy"
   surname: "Tadema"
-  company: ""
+  company: "Provincie Groningen"
   title: ""
   bio: ""
   thumbnailUrl: placeholder.jpg
