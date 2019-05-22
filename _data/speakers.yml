@@ -45,7 +45,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Geodan"
   title: ""
   bio: ""
-  thumbnailUrl: TomVanTilburg.png
+  thumbnailUrl: TomVanTilburg.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -68,7 +68,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Terglobo"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: RaymondNijssen.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
@@ -80,7 +80,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "LandGoed"
   title: ""
   bio: ""
-  thumbnailUrl: ErikMeerburg.png
+  thumbnailUrl: ErikMeerburg.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/geogoeroe"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
@@ -104,7 +104,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   surname: "Leunissen"
   company: "De Volkskrant"
   title: ""
-  bio: ""
+  bio: "I am an Amsterdam-based data journalist and data visualization specialist with a scientific background in physics (PhD) and chemistry (MSc). Most of my time I work for national newspaper de Volkskrant, but I sometimes have other side projects and presentations for companies, government or academia under the name Dutch Data Design."
   thumbnailUrl: placeholder.jpg
   social: 
     - {name: "site", link: "http://dutchdatadesign.nl/"}
@@ -160,7 +160,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Webmapper"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: EdwardMacGillavry.png 
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -171,7 +171,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "OpenState Foundation"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: SiccoVanSas.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -182,7 +182,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "GeoCat"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: PaulvanGenuchten.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -193,7 +193,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Netherlands Space Office"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: RaymondSluiter.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -204,7 +204,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "JustObjects"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: JustVanDenBroecke.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -215,7 +215,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Ordina"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: RobvanLoon.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -226,7 +226,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Rode Kruis"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: MarijkePanis.png
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -237,7 +237,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Satelligence"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: ArjenVrielink.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
@@ -248,7 +248,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Webmapper"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: NieneBoeijen.png
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true

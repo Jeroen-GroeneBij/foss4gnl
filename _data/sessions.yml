@@ -61,21 +61,21 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   speakers: [3]
 -
   id: 401
-  title: "Maptime 1"
+  title: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
   subtype: presentation
-  description: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
+  description: "We will use webGL technologies for fast rendering of large data sets with underlying tile streetmaps and the D3 javascript library for more creative freedom in the browser. I will show examples of how I used such maps to make election, health, police and various open source data insightful for newspaper readers online."
   speakers: [9]
 -
   id: 402
-  title: "Maptime 2"
+  title: "Fantasy Maps"
   subtype: presentation
-  description: "Fantasy Maps"
+  description: ""
   speakers: [10]
 -
   id: 403
-  title: "Maptime 3"
+  title: "Spatial in R"
   subtype: presentation
-  description: "Spatial in R"
+  description: ""
   speakers: [11]
 -
   id: 1
@@ -93,7 +93,7 @@ This presentation will give an overview of the state of the art of hydrological 
 -
   id: 3
   title: "Effe QGIS naar het Nederlands vertalen..."
-  description: ""
+  description: "Interactieve sessie waarin wordt getoond hoe het vertalen van QGIS in zijn werk gaat en wat daar zoal bij komt kijken. Inclusief voorbeelden van wat er mis kan gaan en GIS-terminologie die zich toch wel lastig laat vertalen."
   subtype: presentation
   speakers: [6]
 -
@@ -133,49 +133,55 @@ In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem h
 -
   id: 8
   title: "Cartiqo: 10 jaar geo-kennis in 1 kaartservice"
-  description: ""
+  description: "Cartiqo is een nieuwe kaartservice van Webmapper. De kaarten zijn gebaseerd op open data en maken gebruik van vector-technologie. In de presentatie vertellen we je hoe we onze kennis van basisregistraties, OpenStreetMap, cartografie en Web-technologie sinds het maken van de BRT-Achtergrondkaart in 2009 hebben samengebracht in Cartiqo en hoe je zelf aan de slag kan met deze kaartservice voor je eigen applicaties."
   subtype: presentation
   speakers: [14]
 -
   id: 9
   title: "Geo bij stembureus, verkiezingsuitslagen en andere open data"
-  description: ""
+  description: "Bij de Open State Foundation verzamelen we al een paar jaar alle locaties en informatie van alle stembureaus in Nederland en nu ook de uitslagen van de verkiezingen. Als algemeen aanjager van open data in Nederland komen we vaker met geo in aanraking. Waar lopen we tegen aan? Wat gaat er goed?"
   subtype: presentation
   speakers: [15]
 -
   id: 10
   title: "Het einde van catalogi of hoe OGC-API's het geo landschap gaan veranderen."
-  description: ""
+  description: "Wie had kunnen vermoeden dat tijdens het Geo4Web testbed enkele jaren terug de fundamenten gelegd zijn die nu ingezet worden om de nieuwe OGC API's te ontwerpen. De OGC-API's bouwen op de OpenApi Specification, hebben json en html als primaire encodings en zijn daardoor goed doorzoekbaar door zoekmachines. Je hebt straks geen catalogus meer nodig om datasets en features te vinden, maar gewoon via de populaire zoek machines. In deze presentatie aandacht voor de interactieve API ontwikkeling bij OGC en onze ervaringen bij de ontwikkeling van pyGeoAPI, een OGC-API's implementatie in Python op basis van het Flask framework."
   subtype: presentation
   speakers: [16]
 -
   id: 11
   title: "Earth Observation beyond Google Earth Engine"
-  description: ""
+  description: "The enormous increase of earth observation data triggers new ways of access to data and big data processing and analysis. At present EO cloud based platforms are popping up everywhere with cryptic names like DIAS, TEP, CGS, MEP, EOSC and EOSDIS to name a few. This presentation aims to give a concise introduction in this forest of clouds and to discuss the national and international user needs, first experiences, expectations and concerns."
   subtype: presentation
   speakers: [17]
 -
   id: 12
   title: "pygeoapi: Python implementatie van de OGC WFS v3 standaard"
-  description: ""
+  description: "Er is een nieuwe versie van de OGC Web Feature Service (WFS) standaard: WFS versie 3. Het verschil tussen WFS 3.0 en de huidige versie, 2.0 is groot. WFS 3.0 is REST-gebaseerd. De standaard is samen met ontwikkelaars opgezet in GitHub. Er is nu een stabiele conceptversie van WFS 3.0 beschikbaar. 
+
+Het Open Source project 'pygeoapi' implementeert deze standaard in Python. Bijzonder is dat via een zgn 'GDAL/OGR-Connector' veel bestaande dataset-formaten waaronder WFS v2, GeoPackage en zelf Shapefiles, gemakkelijk te ontsluiten zijn. Zie meer op https://pygeoapi.io en de demo server https://demo.pygeoapi.io"
   subtype: presentation
   speakers: [18]
 -
   id: 13
   title: "Een GeoCat Bridge voor QGIS"
-  description: ""
+  description: "Mogelijk heb je GeoCat Bridge voor ArcMAP al eens voorbij zien komen. Een single-click publicatie plugin voor het ArcGIS platform om data in de osgeo stack te publiceren. Dezer dagen werken we aan een plugin in QGIS die dezelfde user experience geeft. De plugin wordt gebouwd bovenop (en samen met de bouwers van) de Boundless QGIS GeoServer plugin. Hopelijk kan ik rond foss4gnl al de eerste prototypes tonen. De plugin is mede mogelijk gemaakt door recente verbeteringen in QGIS rond metadata support."
   subtype: presentation
   speakers: [16]
 -
   id: 14
   title: "Open Source helpt Natuurgebieden"
-  description: ""
+  description: "In welke natuurgebieden hebben we blauwgrasland? Hoe ontwikkelt een natuurgebied zich? Om dit soort vragen te kunnen beantwoorden, is informatie nodig. De samenwerkende provincies, natuurorganisaties en terreinbeheerders verzamelen data over natuurgebieden en maken vegetatie- en habitatkarteringen om te zorgen voor goed beheer en biodiversiteit. In deze presentatie vertellen we over het ontwikkeltraject van de 'Nationale Databank voor Vegetatie en Habitats'. Deze databank is door een High Performance Team in tien sprints van drie weken opgezet met Open Source Software.
+ 
+De continue terugkoppeling vanuit gebruikers en stakeholders heeft ervoor gezorgd dat in een korte tijd de Nationale databank met de gewenste functionaliteiten is ontwikkeld. Tijdens de presentatie vertellen we over de aanpak van dit project en leggen we uit hoe de databank werkt en hoe het helpt de natuur in Nederland te verbeteren."
   subtype: presentation
   speakers: [19]
 -
   id: 15
   title: "Extracting data from OpenStreetMap"
-  description: ""
+  description: "Open Source Software and tools are readily available and you can use all of your creativity and imagination to start the application you envision. In this data driven world, even the best application is worthless without proper data sources. The Dutch site PDOK.nl provides splendid data, but what if you want more, or if you are looking for data outside of the Netherlands?
+ 
+OpenStreetMap is very popular as a basemap in many webmap applications, but it has much more to offer than just being the bottom layer of your map. In this presentation I will show how to extract (vector) data from OpenStreetMap and how you can use that in your application."
   subtype: presentation
   speakers: [19]
 -
@@ -193,13 +199,17 @@ In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem h
 -
   id: 18
   title: "How to make a crafty Vector Tile map: Custom tiles, the perfect sprite, animating stuff and random hot air balloons!"
-  description: ""
+  description: "Vector tiles are a challenge for the creative mind. In this talk we will take you along the path of making artistic styles for your vector tiles like this Crafty map, this 1940 style map and the Paradise in the Polder map. Starting from the importance of having a good and clear tile set to making your own sprites and glyphs with command line tools and software like Inkscape and Gimp.
+After that we show some trick to add animation with Turf.js and D3.js. Like placing random hot air balloons all over your map!
+Vector tiles are on the cutting edge of technology and creativity, we combine both to show you the endless possibilities that vector tiles offer!"
   subtype: presentation
   speakers: [22]
 -
   id: 19
   title: "Cartiqo: Building a national vector tile set for the Netherlands"
-  description: ""
+  description: "The road traveled to get to a consistent, accurate and fast national vector tile set: Over the past two years we've been testing various open source tools to create and maintain cartiqo: a vector tile set for the Netherlands aimed at creating beautiful webmaps. In this talk we discuss these various tools and explain why we went with Tegola. Building a harmonized vector tile set based on various open data sources takes more than simply stuffing geometries in tiles. We will discuss the issues we encountered, the choices we made and show some examples what you can do with a rich harmonized vector tile set.
+
+By the end of this talk you should be able to build your own national vector tile set."
   subtype: presentation
   speakers: [23]
 -
