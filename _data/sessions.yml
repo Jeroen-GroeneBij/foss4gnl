@@ -63,41 +63,41 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   id: 401
   title: "Maptime 1"
   subtype: presentation
-  description: ""
+  description: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
   speakers: [9]
 -
   id: 402
   title: "Maptime 2"
   subtype: presentation
-  description: ""
+  description: "Fantasy Maps"
   speakers: [10]
 -
   id: 403
   title: "Maptime 3"
   subtype: presentation
-  description: ""
+  description: "Spatial in R"
   speakers: [11]
 -
-  id: 0
+  id: 1
   title: "Terabytes aan wegdata in je database. Wat doe je ermee?"
   description: "Met behulp van postgis, clickhousedb en een beetje R laat ik zien wat de mogelijkheden van de database zijn voor het analyseren van grote hoeveelheden sensor/verkeersdata. Veel datavis en een beetje SQL komen aan bod."
   subtype: presentation
   speakers: [4]
 -
-  id: 0
+  id: 2
   title: "QGIS plugins for hydrology"
   description: "QGIS 3 has many useful features and plugins for hydrologists. Inspired by questions from students at IHE Delft Institute for Water Education, two new plugins were developed at the QGIS Hackfest in A Coruña in March 2019.
 This presentation will give an overview of the state of the art of hydrological tools in QGIS, online resources and how to contribute to further development of the tools."
   subtype: presentation
   speakers: [5]
 -
-  id: 0
+  id: 3
   title: "Effe QGIS naar het Nederlands vertalen..."
   description: ""
   subtype: presentation
   speakers: [6]
 -
-  id: 0
+  id: 4
   title: "Wat we van esri kunnen leren..."
   description: "Veel opensource-GIS software behoort tot de beste in de wereld, en is nog gratis ook. Toch wordt op veel plekken voor veel geld producten van proprietary leveranciers aangeschaft en gebruikt.
 
@@ -109,7 +109,7 @@ Hoe we dat denken te doen en hoe we daarbij om willen gaan met de community? Daa
   subtype: presentation
   speakers: [7]
 -
-  id: 0
+  id: 5
   title: "LandGoed QGIS-NL: Meer dan de som der delen"
   description: "QGIS vormt een open systeem. Je kunt er allerlei dingen aan toevoegen, maar ook uit verwijderen. Dit geeft de ruimte om QGIS helemaal toe te snijden op een specifieke toepassing. Wij geloven dat het op maat snijden van QGIS zichzelf in een organisatie altijd terugverdient.
 
@@ -119,32 +119,92 @@ In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem h
   subtype: presentation
   speakers: [8]
 -
-  id: 0
-  title: "Geo datavisualisations in D3.js & DeckGL"
-  description: ""
-  subtype: presentation
-  speakers: [9]
--
-  id: 0
-  title: "Fantasy maps"
-  description: ""
-  subtype: presentation
-  speakers: [10]
--
-  id: 0
-  title: "Spatial in R"
-  description: ""
-  subtype: presentation
-  speakers: [11]
--
-  id: 0
+  id: 6
   title: "Google Earth Engine"
   description: ""
   subtype: presentation
   speakers: [12]
 -
-  id: 0
+  id: 7
   title: "Wat doet een aannemer met Open Source GIS?"
   description: ""
   subtype: presentation
   speakers: [13]
+-
+  id: 8
+  title: "Cartiqo: 10 jaar geo-kennis in 1 kaartservice"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+-
+  id: 9
+  title: "Geo bij stembureus, verkiezingsuitslagen en andere open data"
+  description: ""
+  subtype: presentation
+  speakers: [15]
+-
+  id: 10
+  title: "Het einde van catalogi of hoe OGC-API's het geo landschap gaan veranderen."
+  description: ""
+  subtype: presentation
+  speakers: [16]
+-
+  id: 11
+  title: "Earth Observation beyond Google Earth Engine"
+  description: ""
+  subtype: presentation
+  speakers: [17]
+-
+  id: 12
+  title: "pygeoapi: Python implementatie van de OGC WFS v3 standaard"
+  description: ""
+  subtype: presentation
+  speakers: [18]
+-
+  id: 13
+  title: "Een GeoCat Bridge voor QGIS"
+  description: ""
+  subtype: presentation
+  speakers: [16]
+-
+  id: 14
+  title: "Open Source helpt Natuurgebieden"
+  description: ""
+  subtype: presentation
+  speakers: [19]
+-
+  id: 15
+  title: "Extracting data from OpenStreetMap"
+  description: ""
+  subtype: presentation
+  speakers: [19]
+-
+  id: 16
+  title: "ntb"
+  description: ""
+  subtype: presentation
+  speakers: [20]
+-
+  id: 17
+  title: "ntb"
+  description: ""
+  subtype: presentation
+  speakers: [21]
+-
+  id: 18
+  title: "How to make a crafty Vector Tile map: Custom tiles, the perfect sprite, animating stuff and random hot air balloons!"
+  description: ""
+  subtype: presentation
+  speakers: [22]
+-
+  id: 19
+  title: "Cartiqo: Building a national vector tile set for the Netherlands"
+  description: ""
+  subtype: presentation
+  speakers: [23]
+-
+  id: 20
+  title: "ntb"
+  description: ""
+  subtype: presentation
+  speakers: [24]
