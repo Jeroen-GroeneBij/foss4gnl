@@ -1,11 +1,11 @@
 - 
   date: "2019-06-20"
-  dateReadable: "20 Juni"
+  dateReadable: "20 juni"
+  title: "Presentaties"
   tracks: 
     - {title: "Technisch", color: "#90be4e"}
     - {title: "Gebruikers", color: "#03a9f4"}
     - {title: "Special", color: "#e91e63"}
-    - {title: "Maptime", color: "#ffff00"}
   timeslots:
     - {
     	startTime: "9:15",
@@ -14,21 +14,102 @@
     }
     - {
       startTime: "9:45",
-      endTime: "11:00",
+      endTime: "10:00",
+      sessionIds: [801]
+    }
+    - {
+      startTime: "10:00",
+      endTime: "10:45",
       sessionIds: [901]
     }
     - {
-      startTime: "11:00",
-      endTime: "11:30",
+      startTime: "10:45",
+      endTime: "11:15",
+      sessionIds: [902]
+    }
+    - {
+      startTime: "11:15",
+      endTime: "11:45",
       sessionIds: [802]
     }
     - {
-      startTime: "11:30",
-      endTime: "12:45",
-      sessionIds: [100,200,300,400]
+      startTime: "11:45",
+      endTime: "13:00",
+      sessionIds: [100,100,100]
     }
     - {
-      startTime: "12:45",
-      endTime: "13:45",
+      startTime: "",
+      endTime: "",
+      sessionIds: [100,100,100]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [100,100,100]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "14:00",
       sessionIds: [803]
+    }
+    - {
+      startTime: "14:00",
+      endTime: "14:50",
+      sessionIds: [100,100,100]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [100,100,100]
+    }    
+    - {
+      startTime: "14:50",
+      endTime: "15:20",
+      sessionIds: [802]
+    }
+    - {
+      startTime: "15:20",
+      endTime: "16:10",
+      sessionIds: [100,100,100]
+    }
+    - {
+      startTime: "",
+      endTime: "",
+      sessionIds: [100,100,100]
+    }
+    - {
+      startTime: "16:10",
+      endTime: "16:40",
+      sessionIds: [903]
+    }
+    - {
+      startTime: "16:40",
+      endTime: "17:00",
+      sessionIds: [804]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "",
+      sessionIds: [805]
+    }
+- 
+  date: "2019-06-20"
+  dateReadable: "20 juni"
+  title: "Maptime Track"
+  subtitle: "middag sessies starten 10 minuten eerder dan presentaties"
+  timeslots:
+    - {
+      startTime: "11:45",
+      endTime: "13:00",
+      sessionIds: [401]
+    }
+    - {
+      startTime: "13:50",
+      endTime: "14:50",
+      sessionIds: [402]
+    }
+    - {
+      startTime: "15:10",
+      endTime: "16:10",
+      sessionIds: [403]
     }

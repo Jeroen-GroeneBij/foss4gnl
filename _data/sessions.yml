@@ -3,6 +3,10 @@
   title: "Registratie"
   service: true
 -
+  id: 801
+  title: "Opening"
+  service: true
+-
   id: 802
   title: "Koffie"
   service: true
@@ -15,26 +19,18 @@
   title: "Afsluiting"
   service: true
 -
+  id: 805
+  title: "Borrel"
+  service: true
+-
   id: 100
-  title: "pres1"
+  title: "Parallelle presentaties"
   description: ""
   subtype: presentation
   speakers: [0]
 -
-  id: 200
-  title: "pres2"
-  description: ""
-  subtype: presentation
-  speakers: [0]
--
-  id: 300
-  title: "pres3"
-  description: ""
-  subtype: presentation
-  speakers: [0]
--
-  id: 400
-  title: "pres4"
+  id: 101
+  title: ""
   description: ""
   subtype: presentation
   speakers: [0]
@@ -48,7 +44,7 @@ Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengeb
   speakers: [1]
 -
   id: 902
-  title: "Keynote 2"
+  title: "Keynote"
   subtype: presentation
   description: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
 internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
@@ -56,13 +52,31 @@ zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial
   speakers: [2]
 -
   id: 903
-  title: "Keynote 3"
+  title: "Afsluitende Keynote"
   subtype: presentation
   description: "Lene Fischer is Associate Professor aan de Universiteit van Kopenhagen. Naast haar reguliere werk is zij
 bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting naar Nodebo te halen
 (u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
 communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
   speakers: [3]
+-
+  id: 401
+  title: "Maptime 1"
+  subtype: presentation
+  description: ""
+  speakers: [9]
+-
+  id: 402
+  title: "Maptime 2"
+  subtype: presentation
+  description: ""
+  speakers: [10]
+-
+  id: 403
+  title: "Maptime 3"
+  subtype: presentation
+  description: ""
+  speakers: [11]
 -
   id: 0
   title: "Terabytes aan wegdata in je database. Wat doe je ermee?"
