@@ -223,7 +223,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   id: 20
   name: "Marijke"
   surname: "Panis"
-  company: "Rode Kruis"
+  company: ""
   title: ""
   bio: ""
   thumbnailUrl: MarijkePanis.png
@@ -259,7 +259,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Webmapper"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: StevenOttens.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
