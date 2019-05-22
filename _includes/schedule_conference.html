@@ -4,6 +4,9 @@
         {% for day in site.data.schedule_conference %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.title }}</h4>
+            {% if day.image %}
+            <img alt="Maptime" width="600" src="{{site.baseurl}}/img/{{day.image}} ">
+            {% endif %}
             <h5 class="schedule-table-heading">{{ day.subtitle }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label"></div>

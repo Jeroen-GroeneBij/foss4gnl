@@ -35,7 +35,7 @@
     - {
       startTime: "11:45",
       endTime: "13:00",
-      sessionIds: [100,100,100]
+      sessionIds: [100,100,100,404]
     }
     - {
       startTime: "",
@@ -95,8 +95,9 @@
 - 
   date: "2019-06-20"
   dateReadable: "20 juni"
-  title: "Maptime Track"
-  subtitle: "middag sessies starten 10 minuten eerder dan presentaties"
+  title: ""
+  subtitle: "middagsessies starten 10 minuten eerder als de presentaties"
+  image: "other/maptime_track_logo.svg"
   timeslots:
     - {
       startTime: "11:45",
