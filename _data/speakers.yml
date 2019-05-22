@@ -9,7 +9,6 @@ standaardenorganisatie op het gebied van geografische informatie. Al jaren is zi
 Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -23,7 +22,6 @@ internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij i
 zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -38,7 +36,6 @@ bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting 
 communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
   thumbnailUrl: LeneFischer.jpeg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -48,9 +45,8 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Geodan"
   title: ""
   bio: ""
-  thumbnailUrl: TomVanTilburg.png
+  thumbnailUrl: TomVanTilburg.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -84,10 +80,11 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "LandGoed"
   title: ""
   bio: ""
-  thumbnailUrl: ErikMeerburg.png
+  thumbnailUrl: ErikMeerburg.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/geogoeroe"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "site", link: "https://www.landgoed.it"}
   rockstar: true
 -
   id: 8
@@ -98,8 +95,8 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: MarcoDuiker.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "site", link: "https://www.landgoed.it"}
   rockstar: true
 -
   id: 9
@@ -107,7 +104,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   surname: "Leunissen"
   company: "De Volkskrant"
   title: ""
-  bio: ""
+  bio: "I am an Amsterdam-based data journalist and data visualization specialist with a scientific background in physics (PhD) and chemistry (MSc). Most of my time I work for national newspaper de Volkskrant, but I sometimes have other side projects and presentations for companies, government or academia under the name Dutch Data Design."
   thumbnailUrl: placeholder.jpg
   social: 
     - {name: "site", link: "http://dutchdatadesign.nl/"}
@@ -132,7 +129,6 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -144,7 +140,6 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -156,6 +151,128 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 14
+  name: "Edward"
+  surname: "Mac Gillavry"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: EdwardMacGillavry.png 
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 15
+  name: "Sicco"
+  surname: "van Sas"
+  company: "OpenState Foundation"
+  title: ""
+  bio: ""
+  thumbnailUrl: SiccoVanSas.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 16
+  name: "Paul"
+  surname: "van Genuchten"
+  company: "GeoCat"
+  title: ""
+  bio: ""
+  thumbnailUrl: PaulvanGenuchten.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 17
+  name: "Raymond"
+  surname: "Sluiter"
+  company: "Netherlands Space Office"
+  title: ""
+  bio: ""
+  thumbnailUrl: RaymondSluiter.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 18
+  name: "Just"
+  surname: "van den Broecke"
+  company: "JustObjects"
+  title: ""
+  bio: ""
+  thumbnailUrl: JustVanDenBroecke.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 19
+  name: "Rob"
+  surname: "van Loon"
+  company: "Ordina"
+  title: ""
+  bio: ""
+  thumbnailUrl: RobvanLoon.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 20
+  name: "Marijke"
+  surname: "Panis"
+  company: "Rode Kruis"
+  title: ""
+  bio: ""
+  thumbnailUrl: MarijkePanis.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-  
+  id: 21
+  name: "Arjen"
+  surname: "Vrielink"
+  company: "Satelligence"
+  title: ""
+  bio: ""
+  thumbnailUrl: ArjenVrielink.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 22
+  name: "Niene"
+  surname: "Boeijen"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: NieneBoeijen.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 23
+  name: "Steven"
+  surname: "Ottens"
+  company: "Webmapper"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+  rockstar: true
+-
+  id: 24
+  name: ""
+  surname: ""
+  company: "Technische Universiteit Delft"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "site", link: "https://www.twitter.com/tudelft3d"}
+    - {name: "site", link: "https://3d.bk.tudelft.nl"}
   rockstar: true
