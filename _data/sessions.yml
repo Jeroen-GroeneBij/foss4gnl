@@ -28,12 +28,14 @@
   description: ""
   subtype: presentation
   speakers: [0]
+  language: "Nederlands"
 -
   id: 101
   title: ""
   description: ""
   subtype: presentation
   speakers: [0]
+  language: "Nederlands"
 -
   id: 901
   title: "Opening keynote"
@@ -42,6 +44,7 @@
 standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
 Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
   speakers: [1]
+  language: "English"
 -
   id: 902
   title: "Keynote"
@@ -50,6 +53,7 @@ Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengeb
 internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
 zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
   speakers: [2]
+  language: "English"
 -
   id: 903
   title: "Afsluitende Keynote"
@@ -59,6 +63,7 @@ bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting 
 (u weet wel, van die QGIS versie) en zet zich hard in voor het QGIS trainingsmateriaal. Zij vertelt over
 communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
   speakers: [3]
+  language: "English"
 -
   id: 401
   title: "Browser-based mapping with D3.js and deck.gl for interactive exploration & communication"
@@ -83,6 +88,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   description: "Met behulp van postgis, clickhousedb en een beetje R laat ik zien wat de mogelijkheden van de database zijn voor het analyseren van grote hoeveelheden sensor/verkeersdata. Veel datavis en een beetje SQL komen aan bod."
   subtype: presentation
   speakers: [4]
+  language: "Nederlands"
 -
   id: 2
   title: "QGIS plugins for hydrology"
@@ -90,12 +96,14 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
 This presentation will give an overview of the state of the art of hydrological tools in QGIS, online resources and how to contribute to further development of the tools."
   subtype: presentation
   speakers: [5]
+  language: "English"
 -
   id: 3
   title: "Effe QGIS naar het Nederlands vertalen..."
   description: "Interactieve sessie waarin wordt getoond hoe het vertalen van QGIS in zijn werk gaat en wat daar zoal bij komt kijken. Inclusief voorbeelden van wat er mis kan gaan en GIS-terminologie die zich toch wel lastig laat vertalen."
   subtype: presentation
   speakers: [6]
+  language: "Nederlands"
 -
   id: 4
   title: "Wat we van esri kunnen leren..."
@@ -108,6 +116,7 @@ LandGoed wil voor opensource-GIS die rol als leverancier vervullen, en organisat
 Hoe we dat denken te doen en hoe we daarbij om willen gaan met de community? Daar hebben we allerlei ideeën over. We leggen ze uit op 20 juni. En horen dan graag van jou of dat goede ideeën zijn, of dat het misschien nog beter kan."
   subtype: presentation
   speakers: [7]
+  language: "Nederlands"
 -
   id: 5
   title: "LandGoed QGIS-NL: Meer dan de som der delen"
@@ -118,42 +127,49 @@ Voor Nederlandse toepassingen hebben we daar vast een begin mee gemaakt. Door he
 In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem hebben gemaakt uit open componenten, en hoe we omgaan met het delen van onze eigen toevoegingen. Onderweg leer je gelijk in QGIS werken met Ruimtelijke Plannen, de BGT en het soepel gebruiken van de BAG WFS."
   subtype: presentation
   speakers: [8]
+  language: "Nederlands"
 -
   id: 6
   title: "Google Earth Engine"
   description: ""
   subtype: presentation
   speakers: [12]
+  language: "English"
 -
   id: 7
   title: "Wat doet een aannemer met Open Source GIS?"
   description: ""
   subtype: presentation
   speakers: [13]
+  language: "Nederlands"
 -
   id: 8
   title: "Cartiqo: 10 jaar geo-kennis in 1 kaartservice"
   description: "Cartiqo is een nieuwe kaartservice van Webmapper. De kaarten zijn gebaseerd op open data en maken gebruik van vector-technologie. In de presentatie vertellen we je hoe we onze kennis van basisregistraties, OpenStreetMap, cartografie en Web-technologie sinds het maken van de BRT-Achtergrondkaart in 2009 hebben samengebracht in Cartiqo en hoe je zelf aan de slag kan met deze kaartservice voor je eigen applicaties."
   subtype: presentation
   speakers: [14]
+  language: "Nederlands"
 -
   id: 9
   title: "Geo bij stembureus, verkiezingsuitslagen en andere open data"
   description: "Bij de Open State Foundation verzamelen we al een paar jaar alle locaties en informatie van alle stembureaus in Nederland en nu ook de uitslagen van de verkiezingen. Als algemeen aanjager van open data in Nederland komen we vaker met geo in aanraking. Waar lopen we tegen aan? Wat gaat er goed?"
   subtype: presentation
   speakers: [15]
+  language: "Nederlands"
 -
   id: 10
   title: "Het einde van catalogi of hoe OGC-API's het geo landschap gaan veranderen."
   description: "Wie had kunnen vermoeden dat tijdens het Geo4Web testbed enkele jaren terug de fundamenten gelegd zijn die nu ingezet worden om de nieuwe OGC API's te ontwerpen. De OGC-API's bouwen op de OpenApi Specification, hebben json en html als primaire encodings en zijn daardoor goed doorzoekbaar door zoekmachines. Je hebt straks geen catalogus meer nodig om datasets en features te vinden, maar gewoon via de populaire zoek machines. In deze presentatie aandacht voor de interactieve API ontwikkeling bij OGC en onze ervaringen bij de ontwikkeling van pyGeoAPI, een OGC-API's implementatie in Python op basis van het Flask framework."
   subtype: presentation
   speakers: [16]
+  language: "Nederlands"
 -
   id: 11
   title: "Earth Observation beyond Google Earth Engine"
   description: "The enormous increase of earth observation data triggers new ways of access to data and big data processing and analysis. At present EO cloud based platforms are popping up everywhere with cryptic names like DIAS, TEP, CGS, MEP, EOSC and EOSDIS to name a few. This presentation aims to give a concise introduction in this forest of clouds and to discuss the national and international user needs, first experiences, expectations and concerns."
   subtype: presentation
   speakers: [17]
+  language: "English"
 -
   id: 12
   title: "pygeoapi: Python implementatie van de OGC WFS v3 standaard"
@@ -162,12 +178,14 @@ In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem h
 Het Open Source project 'pygeoapi' implementeert deze standaard in Python. Bijzonder is dat via een zgn 'GDAL/OGR-Connector' veel bestaande dataset-formaten waaronder WFS v2, GeoPackage en zelf Shapefiles, gemakkelijk te ontsluiten zijn. Zie meer op https://pygeoapi.io en de demo server https://demo.pygeoapi.io"
   subtype: presentation
   speakers: [18]
+  language: "Nederlands"
 -
   id: 13
   title: "Een GeoCat Bridge voor QGIS"
   description: "Mogelijk heb je GeoCat Bridge voor ArcMAP al eens voorbij zien komen. Een single-click publicatie plugin voor het ArcGIS platform om data in de osgeo stack te publiceren. Dezer dagen werken we aan een plugin in QGIS die dezelfde user experience geeft. De plugin wordt gebouwd bovenop (en samen met de bouwers van) de Boundless QGIS GeoServer plugin. Hopelijk kan ik rond foss4gnl al de eerste prototypes tonen. De plugin is mede mogelijk gemaakt door recente verbeteringen in QGIS rond metadata support."
   subtype: presentation
   speakers: [16]
+  language: "Nederlands"
 -
   id: 14
   title: "Open Source helpt Natuurgebieden"
@@ -176,6 +194,7 @@ Het Open Source project 'pygeoapi' implementeert deze standaard in Python. Bijzo
 De continue terugkoppeling vanuit gebruikers en stakeholders heeft ervoor gezorgd dat in een korte tijd de Nationale databank met de gewenste functionaliteiten is ontwikkeld. Tijdens de presentatie vertellen we over de aanpak van dit project en leggen we uit hoe de databank werkt en hoe het helpt de natuur in Nederland te verbeteren."
   subtype: presentation
   speakers: [19]
+  language: "Nederlands"
 -
   id: 15
   title: "Extracting data from OpenStreetMap"
@@ -184,18 +203,21 @@ De continue terugkoppeling vanuit gebruikers en stakeholders heeft ervoor gezorg
 OpenStreetMap is very popular as a basemap in many webmap applications, but it has much more to offer than just being the bottom layer of your map. In this presentation I will show how to extract (vector) data from OpenStreetMap and how you can use that in your application."
   subtype: presentation
   speakers: [19]
+  language: "English"
 -
   id: 16
   title: "ntb"
   description: ""
   subtype: presentation
   speakers: [20]
+  language: "Nederlands"
 -
   id: 17
   title: "ntb"
   description: ""
   subtype: presentation
   speakers: [21]
+  language: "Nederlands"
 -
   id: 18
   title: "How to make a crafty Vector Tile map: Custom tiles, the perfect sprite, animating stuff and random hot air balloons!"
@@ -204,6 +226,7 @@ After that we show some trick to add animation with Turf.js and D3.js. Like plac
 Vector tiles are on the cutting edge of technology and creativity, we combine both to show you the endless possibilities that vector tiles offer!"
   subtype: presentation
   speakers: [22]
+  language: "English"
 -
   id: 19
   title: "Cartiqo: Building a national vector tile set for the Netherlands"
@@ -212,9 +235,11 @@ Vector tiles are on the cutting edge of technology and creativity, we combine bo
 By the end of this talk you should be able to build your own national vector tile set."
   subtype: presentation
   speakers: [23]
+  language: "English"
 -
   id: 20
   title: "ntb"
   description: ""
   subtype: presentation
   speakers: [24]
+  language: "Nederlands"
