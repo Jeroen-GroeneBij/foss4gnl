@@ -118,7 +118,9 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   surname: "Kessler"
   company: "Studio Kessler"
   title: ""
-  bio: ""
+  bio: "Zolang ik mij kan herinneren zie ik de wereld, en alles wat zich daarbinnen afspeelt, in kaarten en maquettes. Naarmate ik ouder werd ontdekte ik dat deze manier van kijken wezenlijk anders is dan gebruikelijk. Gedreven door de oneindige behoefte om de wereld en alle aspecten van het leven te spiegelen in kaartvorm, ben ik de Vrije Academie gaan volgen en heb ik het medium verder ontwikkeld. Iedere organisatie en iedere familie zie ik als een op zichzelf staande, unieke wereld die ik kan vertalen naar cartografie. De voldoening die een groep ervaart in het samen werken aan een kaart beschouw ik zelf als een van mijn grootste verdiensten.
+
+  In 1989 vestigde ik mij vanuit Den Haag met mijn studio op Landgoed de Olmenhorst in Lisserbroek. Eind 1990, na een aantal landelijke publicaties over mijn werk, ontwikkelde ik mijn concept voor geofictieve bedrijfsworkshops en evenementen. Het bleek een gouden greep. Associatieve cartografie bleek een bijzondere verbindende en onthullende werking te hebben in groepsprocessen.  Ik raakte steeds enthousiaster over de mogelijkheden die het medium bood om draagvlak te vinden in veranderingsprocessen. Via grote opdrachten, studie en de feedback van mijn klanten en partners ontwikkelde zich de roadmap-methodiek. De laatste jaren geef ik leiding aan een snel ontwikkelende en groeiende organisatie en werk ik met veel plezier aan uiteenlopende kunst- en communicatie projecten."
   thumbnailUrl: MartijnKessler.jpg
   social:
     - {name: "site", link: "http://studiokessler.com/"}
@@ -167,6 +169,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   thumbnailUrl: EdwardMacGillavry.png 
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/emacgillavry"}
   rockstar: true
 -
   id: 15
@@ -254,7 +257,10 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: NieneBoeijen.png
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/niene-boeijen-24a8a429/"}
+    - {name: "twitter", link: "https://www.twitter.com/BNiene"}
+    - {name: "site", link: "https://nieneb.nl/"}
+
   rockstar: true
 -
   id: 23
@@ -266,6 +272,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   thumbnailUrl: StevenOttens.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/stvno"}
+
   rockstar: true
 -
   id: 24
