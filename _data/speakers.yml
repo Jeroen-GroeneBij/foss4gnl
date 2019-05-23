@@ -269,14 +269,13 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   rockstar: true
 -
   id: 24
-  name: ""
-  surname: ""
+  name: "Shenglan"
+  surname: "Du"
   company: "Technische Universiteit Delft"
-  title: ""
+  title: "Master Student Geomatics"
   bio: ""
   thumbnailUrl: placeholder.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
-    - {name: "site", link: "https://www.twitter.com/tudelft3d"}
     - {name: "site", link: "https://3d.bk.tudelft.nl"}
+    - {name: "twitter", link: "https://www.twitter.com/tudelft3d"}
   rockstar: true
