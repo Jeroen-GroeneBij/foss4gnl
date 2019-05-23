@@ -7,9 +7,10 @@
   bio: "Athina Trakas is Director Regional Services bij het Open Geospatial Consortium (OGC): Dé
 standaardenorganisatie op het gebied van geografische informatie. Al jaren is zij het gezicht van OGC in
 Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengebied."
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: AthinaTrakas.png
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/athinatrakas/"}
+    - {name: "twitter", link: "https://twitter.com/trakasa"}
   rockstar: true
 -
   id: 2
@@ -20,9 +21,10 @@ Europa. Ze neemt jullie mee in de belangrijkste ontwikkelingen op standaardengeb
   bio: "Edzer Pebesma is Professor of geoinformatics aan de universiteit van Münster. Een Nederlander in
 internationale context. Zijn specialiteit is ruimte-tijd modellering, maar hij is misschien nog bekender om
 zijn werk in en met R. Zijn keynote heeft de allesverklarende titel “R Spatial”."
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: EdzerPebesma.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/edzer/"}
+    - {name: "twitter", link: "https://twitter.com/edzerpebesma"}
   rockstar: true
 -
   id: 3
@@ -67,10 +69,10 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   surname: "Nijssen"
   company: "Terglobo"
   title: ""
-  bio: ""
+  bio: "Raymond Nijssen werkt al ruim tien jaar als zelfstandig open source GIS-adviseur onder de naam Terglobo en is lid van de coöperatie OpenGeoGroep.
+Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor regelmatig internationale bijeenkomsten."
   thumbnailUrl: RaymondNijssen.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -95,7 +97,6 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: "Alles geo. Bij voorkeur vernieuwend, altijd klantgericht. Sinds kort als technisch directeur van LandGoed"
   thumbnailUrl: MarcoDuiker.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
     - {name: "site", link: "https://www.landgoed.it"}
   rockstar: true
 -
@@ -105,8 +106,10 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "De Volkskrant"
   title: ""
   bio: "I am an Amsterdam-based data journalist and data visualization specialist with a scientific background in physics (PhD) and chemistry (MSc). Most of my time I work for national newspaper de Volkskrant, but I sometimes have other side projects and presentations for companies, government or academia under the name Dutch Data Design."
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: MirjamLeunissen.jpg
   social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dutchdatadesign/"}
+    - {name: "twitter", link: "https://twitter.com/dutchdatadesign"}
     - {name: "site", link: "http://dutchdatadesign.nl/"}
   rockstar: true
 -
@@ -116,9 +119,10 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Studio Kessler"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: MartijnKessler.jpg
   social:
     - {name: "site", link: "http://studiokessler.com/"}
+    - {name: "twitter", link: "https://twitter.com/martijnkessler"}
   rockstar: true
 -
   id: 11
@@ -127,9 +131,9 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Provincie Groningen"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: WillyTadema.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/friesewoudloper"}
   rockstar: true
 -
   id: 12
@@ -138,9 +142,9 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Deltares"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: GennadiiDonchyts.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/gena_d"}
   rockstar: true
 -
   id: 13
@@ -149,7 +153,7 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   company: "Van Oord"
   title: ""
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: ErnaOudman.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
