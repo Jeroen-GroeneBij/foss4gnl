@@ -38,7 +38,8 @@ bijzonder actief in de QGIS community: het lukte haar de QGIS developer meeting 
 communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haar werk."
   thumbnailUrl: LeneFischer.jpeg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/lene_fischer"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lene-fischer-6576636/"}
   rockstar: true
 -
   id: 4
@@ -60,7 +61,6 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: HansVanDerKwast.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
@@ -168,8 +168,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: EdwardMacGillavry.png 
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
     - {name: "twitter", link: "https://twitter.com/emacgillavry"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/emacgillavry"}
   rockstar: true
 -
   id: 15
@@ -180,7 +180,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: SiccoVanSas.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://twitter.com/siccovansas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/siccovansas"}
   rockstar: true
 -
   id: 16
@@ -191,7 +192,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: PaulvanGenuchten.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://www.twitter.com/pvangenuchten"}
   rockstar: true
 -
   id: 17
@@ -202,7 +203,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: RaymondSluiter.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://www.twitter.com/RaymondSluiter"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rsluiter"}
   rockstar: true
 -
   id: 18
@@ -213,7 +215,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: JustVanDenBroecke.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://www.twitter.com/justb4"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/justb4"}
   rockstar: true
 -
   id: 19
@@ -224,7 +227,8 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: RobvanLoon.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "twitter", link: "https://www.twitter.com/rob_vl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rvanloon"}
   rockstar: true
 -
   id: 20
@@ -235,7 +239,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: MarijkePanis.png
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marijke-panis-6a594652/"}
   rockstar: true
 -  
   id: 21
@@ -271,7 +275,6 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   bio: ""
   thumbnailUrl: StevenOttens.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
     - {name: "twitter", link: "https://twitter.com/stvno"}
 
   rockstar: true
@@ -285,5 +288,28 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   thumbnailUrl: placeholder.jpg
   social: 
     - {name: "site", link: "https://3d.bk.tudelft.nl"}
+  rockstar: true
+-
+  id: 25
+  name: "Hugo"
+  surname: "Ledoux"
+  company: "Technische Universiteit Delft"
+  title: ""
+  bio: ""
+  thumbnailUrl: HugoLedoux.jpg
+  social: 
+    - {name: "site", link: "https://3d.bk.tudelft.nl"}
+    - {name: "twitter", link: "https://www.twitter.com/hugoledoux"}
     - {name: "twitter", link: "https://www.twitter.com/tudelft3d"}
+  rockstar: true
+-
+  id: 26
+  name: "Linda"
+  surname: "van den Brink"
+  company: "Geonovum"
+  title: ""
+  bio: ""
+  thumbnailUrl: LindaVanDenBrink.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/brinkwoman"}
   rockstar: true
