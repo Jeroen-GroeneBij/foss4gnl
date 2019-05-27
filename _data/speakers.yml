@@ -85,7 +85,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   thumbnailUrl: ErikMeerburg.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/geogoeroe"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/erik-meerburg-53a8055/"}
     - {name: "site", link: "https://www.landgoed.it"}
   rockstar: true
 -
@@ -324,3 +324,4 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   social: 
     - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
   rockstar: true
+  
