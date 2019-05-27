@@ -132,7 +132,7 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   surname: "Tadema"
   company: "Provincie Groningen"
   title: ""
-  bio: ""
+  bio: "Als data engineer en informatiearchitect ben ik werkzaam voor de provincies Groningen en Zuid-Holland. Mijn specialisaties zijn geo-informatie, basisregistraties en open data. Ik ben co-auteur van het <a href="https://cran.r-project.org/web/packages/nlgeocoder/index.html">nlgeocoder</a> package en <a href="https://github.com/TWIAV/Spatial_Analysis_in_R_with_Open_Geodata">Spatial Analysis in R with Open Geodata</a>."
   thumbnailUrl: WillyTadema.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/friesewoudloper"}
