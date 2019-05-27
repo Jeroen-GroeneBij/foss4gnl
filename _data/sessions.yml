@@ -78,9 +78,9 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   speakers: [10]
 -
   id: 403
-  title: "Spatial in R"
+  title: "Dashboard prototyping in R"
   subtype: presentation
-  description: ""
+  description: "Shiny is een open source R package waarmee je snel prototypes voor interactieve web applicaties kunt maken. In de workshop gaan we een dashboard bouwen, waarbij we niet alleen gebruik maken van Shiny, maar ook van de JavaScript libraries Leaflet en Plotly. En natuurlijk van het sf package mede-ontwikkeld door keynote speaker Edzer Pebesma!"
   speakers: [11]
 -
   id: 1
