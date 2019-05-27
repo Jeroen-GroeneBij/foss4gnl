@@ -261,3 +261,11 @@ De laatste jaren is echter het inzicht ontstaan dat deze standaarden wel toe te 
   subtype: presentation
   speakers: [26]
   language: "Nederlands"
+  -
+  id: 23
+  title: "Stuntelen met spreadsheets of toveren met tabellen in QGIS"
+  description: "In dit jaar met verkiezingen voor de Provinciale Staten en voor het Europees Parlement komt er via allerlei bronnen een hoop data beschikbaar die het meer dan waard is om op kaart weer te geven. Veel van dit soort data wordt als spreadsheet aangeleverd en dan nog vaak als Excel bestand. Alsof er geen open standaarden bestaan... 
+  In deze sessie laat ik zien hoe je met een aantal minder bekende QGIS-opties en -plugins die spreadsheetdata zelfs in Excel-formaat niet alleen effectief maar ook flexibel in QGIS kunt gebruiken. Daarbij komen als bonus nog wat speciale kaartvormen aan bod."
+  subtype: presentation
+  speakers: [27]
+  language: "Nederlands"
