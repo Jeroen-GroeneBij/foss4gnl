@@ -313,3 +313,14 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   social: 
     - {name: "twitter", link: "https://www.twitter.com/brinkwoman"}
   rockstar: true
+  -
+  id: 27
+  name: "Gert-Jan"
+  surname: "van der Weijden"
+  company: "Brandweer Amsterdam-Amstelland"
+  title: ""
+  bio: "Gert-Jan van der Weijden is liefhebber van actief en passief kiesrecht, en zet zijn handen en tanden graag in cijfertjes die daar mee te maken hebben. Op professioneel vlak is Gert-Jan vanaf 11 juni van dit jaar als GIS-specialist in dienst bij de Brandweer Amsterdam-Amstelland."
+  thumbnailUrl: GertJanvanderWeijden.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
+  rockstar: true
