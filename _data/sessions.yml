@@ -238,8 +238,8 @@ By the end of this talk you should be able to build your own national vector til
   language: "English"
 -
   id: 20
-  title: "ntb"
-  description: ""
+  title: "Accurate, Detailed and Automatic Tree Modelling from Point Clouds"
+  description: "In this work we conduct accurate 3D tree modelling from individual tree point clouds. From the tree point cloud the minimum spanning tree is extracted and simplified to represent the tree skeleton. By fitting branch cylinders we reconstruct accurate tree models with branches. Leaves and textures are added to enhance the realism of the tree model."
   subtype: presentation
   speakers: [24]
   language: "English"

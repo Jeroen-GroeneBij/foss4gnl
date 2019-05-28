@@ -285,9 +285,10 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   company: "Technische Universiteit Delft"
   title: "Master Student Geomatics"
   bio: ""
-  thumbnailUrl: placeholder.jpg
+  thumbnailUrl: ShenglanDu.jpg
   social: 
     - {name: "site", link: "https://3d.bk.tudelft.nl"}
+    - {name: "twitter", link: "www.linkedin.com/in/shenglan-d-91b828182"}
   rockstar: true
 -
   id: 25
