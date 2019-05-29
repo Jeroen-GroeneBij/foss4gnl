@@ -206,18 +206,18 @@ OpenStreetMap is very popular as a basemap in many webmap applications, but it h
   language: "English"
 -
   id: 16
-  title: "ntb"
-  description: ""
+  title: "QGIS voor humanitaire hulp"
+  description: "QGIS word op vele verschillende manier toegepast, waar mensen vaak niet bij stil staan is het gebruik deze tools in een humanitaire setting. Maar waar moeten we dan aan denken? Bij 510 een initiatief van het Nederlandse Rode Kruis word QGIS onder andere gebruikt om snel, kwalitatief en effectief humanitaire hulp in te kunnen zetten aan de hand van data en digitale producten. Tijdens deze presentatie gaan we verder in op een aantal specifieke voorbeelden hoe we data vertalen naar de toepassing in het veld."
   subtype: presentation
   speakers: [20]
   language: "Nederlands"
 -
   id: 17
-  title: "ntb"
-  description: ""
+  title: "Discussion Ready Data: how state of the art Remote Sensing services contribute to sustainability"
+  description: "If you are interested in state of the art #remotesensing to support #sustainable commodity supply chains, come by at my talk at @foss4gnl next month. From multisensor probabilistic change detection to why we need to put politics back in data and rage against the machine "
   subtype: presentation
   speakers: [21]
-  language: "Nederlands"
+  language: "English"
 -
   id: 18
   title: "How to make a crafty Vector Tile map: Custom tiles, the perfect sprite, animating stuff and random hot air balloons!"
