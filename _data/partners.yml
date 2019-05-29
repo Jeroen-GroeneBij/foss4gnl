@@ -19,6 +19,12 @@
         link: "https://satelligence.com/", 
         imageUrl: "logo-satelligence.png"
       }
+    - {
+        name: "Geodan", 
+        description: "", 
+        link: "https://geodan.nl/", 
+        imageUrl: "logo-geodan.jpg"
+      }
 -
   group: "Zilver"
   elements:
