@@ -25,6 +25,12 @@
         link: "https://geodan.nl/", 
         imageUrl: "logo-geodan.jpg"
       }
+    - {
+        name: "OpenGeoGroep", 
+        description: "", 
+        link: "https://opengeogroep.nl/", 
+        imageUrl: "logo-opengeogroep.svg"
+      }
 -
   group: "Zilver"
   elements:
