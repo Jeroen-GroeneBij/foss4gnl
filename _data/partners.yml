@@ -28,7 +28,7 @@
     - {
         name: "OpenGeoGroep", 
         description: "", 
-        link: "https://opengeogroep.nl/", 
+        link: "https://www.opengeogroep.nl/", 
         imageUrl: "logo-opengeogroep.svg"
       }
 -
@@ -39,4 +39,10 @@
         description: "", 
         link: "https://www.webmapper.net", 
         imageUrl: "logo-webmapper.svg"
+      }
+    - {
+        name: "GeoCat", 
+        description: "", 
+        link: "https://www.geocat.net/", 
+        imageUrl: "logo-geocat.png"
       }
