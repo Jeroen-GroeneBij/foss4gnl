@@ -130,8 +130,8 @@ In deze presentatie leggen we uit wat de meerwaarde is van QGIS-NL, hoe we hem h
   language: "Nederlands"
 -
   id: 6
-  title: "Google Earth Engine"
-  description: ""
+  title: " Getting the most out of Google Earth Engine"
+  description: "Google Earth Engine (EE) is a Cloud-based analysis platform that has disrupted EO research community over the last years by providing a way to freely process petabyte-large geospatial datasets. I will give an overview of the main features of EE from software developer and remote sensing research perspectives. Several applications developed using EE at Deltares will be demonstrated, as well as do's and don'ts."
   subtype: presentation
   speakers: [12]
   language: "English"
