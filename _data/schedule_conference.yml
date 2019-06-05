@@ -3,9 +3,9 @@
   dateReadable: "20 juni"
   title: "Presentaties"
   tracks: 
-    - {title: "Technisch", color: "#90be4e"}
-    - {title: "Gebruikers", color: "#03a9f4"}
-    - {title: "Special", color: "#e91e63"}
+    - {title: "GROEN", color: "#90be4e"}
+    - {title: "BLAUW", color: "#03a9f4"}
+    - {title: "ROOD", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "9:15",
