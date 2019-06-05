@@ -32,11 +32,6 @@
       endTime: "11:45",
       sessionIds: [802]
     }
-  tracks: 
-    - {title: "GROEN", color: "#90be4e"}
-    - {title: "BLAUW", color: "#03a9f4"}
-    - {title: "ROOD", color: "#e91e63"}
-  timeslots:
     - {
       startTime: "11:45",
       endTime: "13:00",
