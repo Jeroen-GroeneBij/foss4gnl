@@ -325,4 +325,14 @@ Daarnaast is hij al jaren actief in de QGIS “community” en bezoekt daarvoor 
   social: 
     - {name: "twitter", link: "https://www.twitter.com/gisnederland"}
   rockstar: true
-  
+-
+  id: 28
+  name: "Marten"
+  surname: "Terpstra"
+  company: "Provincie Zuid-Holland"
+  title: ""
+  bio: ""
+  thumbnailUrl: placeholder.jpg
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/mlterpstra"}
+  rockstar: true  
