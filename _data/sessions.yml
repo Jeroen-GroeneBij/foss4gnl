@@ -269,3 +269,10 @@ De laatste jaren is echter het inzicht ontstaan dat deze standaarden wel toe te 
   subtype: presentation
   speakers: [27]
   language: "Nederlands"
+-
+  id: 24
+  title: "De Omgevingswet als Open Instrument"
+  description: "De nieuwe Omgevingswet, die naar verwachting in 2021 in werking zal treden, bevat nieuwe digitale publicatieplichten voor beleidsmakers en beoogt de maatschappij en overheid een gelijke informatiepositie te geven rond ruimtelijke inrichting. De Provincie Zuid Holland werkt aan open source software om conform de eisen beleid op te stellen en te publiceren, waarbij nieuwe functies als tijdreizen en geo-referentie van beleid zijn voorzien. Deze presentatie geeft een overzicht van de architectuur van het project, waar het project nu staat en een blik op de toekomst. "
+  subtype: presentation
+  speakers: [28]
+  language: "Nederlands"
