@@ -31,6 +31,12 @@
         link: "https://www.opengeogroep.nl/", 
         imageUrl: "logo-opengeogroep.svg"
       }
+    - {
+        name: "Ordina", 
+        description: "", 
+        link: "https://www.ordina.nl/", 
+        imageUrl: "logo_ordina.png"
+      }
 -
   group: "Zilver"
   elements:
