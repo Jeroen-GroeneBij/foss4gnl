@@ -50,18 +50,20 @@ communitybuilding, samenwerken met QGIS, en de inzet van allerlei gadgets in haa
   bio: ""
   thumbnailUrl: TomVanTilburg.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/"}
   rockstar: true
 -
   id: 5
   name: "Hans"
   surname: "van der Kwast"
-  company: "Unesco IHE"
+  company: "IHE Delft"
   title: ""
-  bio: ""
+  bio: "Onderwijs en capaciteits ontwikkeling voor de water sector in ontwikkelingslanden op het gebied van GIS, SDI en remote sensing. Uiteraard met open source software en open courseware."
   thumbnailUrl: HansVanDerKwast.jpg
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/"}
+        - {name: "twitter", link: "https://twitter.com/hansakwast"}
+        - {name: "linkedin", link: "https://www.linkedin.com/in/jvdkwast/"}
+        - {name: "youtube", link: "https://www.youtube.com/c/HansvanderKwast"}
   rockstar: true
 -
   id: 6
