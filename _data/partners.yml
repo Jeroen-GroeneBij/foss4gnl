@@ -52,3 +52,9 @@
         link: "https://www.geocat.net/", 
         imageUrl: "logo-geocat.png"
       }
+    - {
+        name: "Geon", 
+        description: "", 
+        link: "https://www.geon.nl/", 
+        imageUrl: "logo-geon.png"
+      }
