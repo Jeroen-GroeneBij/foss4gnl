@@ -1,14 +1,72 @@
 ---
 layout: post
-title:  "Een nieuwe FOSS4GNL in 2019!"
-date:   2019-05-06 10:00:00
+title:  "Maptime track!"
+date:   2019-06-18 20:00:00
 isStaticPost: false
 ---
+(for English, scroll down!)
 
-Welkom bij de FOSS4GNL! Dit jaar hopen we je te begroeten aan de Technische Universiteit in het mooie Delft voor een leuk en hopelijk bovenal interessant programma. Dit jaar is de FOSS4G weer een eendaags evenement. 
+Beste Kaartliefhebbers! 
 
-Meer informatie? Kijk gerust rond op de site, binnenkort volgt er meer info over het programma. Voorlopig kan je nog (tot 15 mei) presentaties aanleveren.
+Tijdens de Foss4GNL dag is er ook een heuse Maptime track! Hier hebben we drie hands-on workshops in de stijl van Maptime. Dit betekent zelf aan de slag om een kaartje te maken!
 
-Tot 20 juni in Delft! Wij hopen jullie daar te zien.
+Inschrijven voor de workshops kun je doen bij binnenkomst direct bij de registratie. Per workshop kunnen maximaal 20 mensen mee doen. Bedenk van te voren goed welke workshop(s) je mee wilt gaan doen, er is een beetje voorbereiding nodig. En omdat we vermoeden dat de workshops snel vol zullen lopen, kan je je er in principe maar voor één inschrijven (als er in de eerste koffiepauze nog plekken open zijn dan mag je een tweede invullen).
 
-De organisatie van de FOSS4GNL
+Wat heb je nodig:
+
+De workshops zijn hands-on. Neem dus je eigen laptop mee en zorg dat je voor de workshop al de lokale internet connectie hebt getest. De workshops zijn maar kort dus om het beste er van te maken zorg dat je goed voorbereid bent.
+Zorg ook dat je een goede text-editor geïnstalleerd hebt, zoals Visual Studio Code, Brackets of Notepad++, met Syntax Highligting.
+
+Workshop 1. Browser based mapping with D3.js
+* Download CBS wijk data: https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/wijk-en-buurtkaart-2018
+* Zorg dat je QGIS hebt: https://www.qgis.org/en/site/
+* Maak een Observable account aan https://observablehq.com/
+
+Workshop 2. Geofiction & Roadmapping
+Niets nodig! We werken analoog. Met de hand gaan we een kaart maken over Foss4GNL.
+
+Workshop 3. Dashboard prototyping in R
+Willy neemt ons mee in het bouwen van een Shiny App dashboard in R. Om mee te doen:
+* zorg dat je R en RStudio op je computer installeert of een RStudio Cloud account hebt.
+* het workshopmateriaal kan gedownload worden (vanaf dinsdag): https://github.com/friesewoudloper/shiny-workshop
+
+Let op! De Middag sessies van de Maptime track beginnen 10 minuten eerder dan de presentaties zodat we iets langer de tijd hebben voor de workshops. Pak snel je lunch en koffie en kom op tijd!
+ 
+Tot donderdag!
+
+ 
+
+ 
+
+---------------------------------------------------------
+
+ 
+
+
+Dear Map Lovers!
+
+During Foss4GNL we will have a Maptime Track! Three hands-on workshops in the style of Maptime. This means, bring your laptop and let's make a map!
+
+Subscription for the workshops is at the entrance of the day, during registration. Per workshop max 20 people can participate. Some workshops need a little preparation. So decide beforehand which workshops you want to join. And becaus we expect quite the rush for the workshops, you can only pick one... (if there are still some spaces left during the first coffee break, you can apply for another).
+
+What do you need?
+
+Bring your own device! Maptime is hands-on, so bring your laptop. Make sure you test the local internet connection before the workshops. The workshops are short so come prepared to make the most out of it.
+Also, make sure you have a good text-editor installed. Like Visual Studio Code, Brackets or Notepad++. With Syntax Highlighting.
+
+Workshop 1. Browser based mapping with D3.js
+* Download CBS neighborhood data: https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische%20data/wijk-en-buurtkaart-2018
+* Make sure you have QGIS installed: https://www.qgis.org/en/site/
+* Create a Observable account https://observablehq.com/
+
+Workshop 2. Geofiction & Roadmapping
+* No needs! We will work analogue to draw our own map of Foss4gNL
+
+Workshop 3. Dashboard prototyping in R (spoken language will be Dutch)
+Willy will take us along in building a Shiny App dashboard in R. To follow along:
+* Have R and RStudio installed on your computer. Or have a Rstudio Cloud account.
+* The workshop materials can be downloaded (from Tuesday) on : https://github.com/friesewoudloper/shiny-workshop
+
+Note! The afternoon sessions of the Maptime track start 10 minutes before the presentation tracks, so we have slightly longer the time for the workshops. Grab your lunch and coffee fast and make sure you are on time!
+
+See you Thursday! 
