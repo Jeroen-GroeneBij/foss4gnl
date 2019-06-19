@@ -96,7 +96,7 @@
   date: "2019-06-20"
   dateReadable: "20 juni"
   title: ""
-  subtitle: "middagsessies starten 10 minuten eerder dan de presentaties"
+  subtitle: ""
   image: "other/maptime_track_logo.svg"
   timeslots:
     - {
@@ -105,12 +105,12 @@
       sessionIds: [401]
     }
     - {
-      startTime: "13:50",
+      startTime: "14:00",
       endTime: "14:50",
       sessionIds: [402]
     }
     - {
-      startTime: "15:10",
+      startTime: "15:20",
       endTime: "16:10",
-      sessionIds: [403]
+      sessionIds: [402]
     }
