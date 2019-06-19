@@ -29,12 +29,9 @@ Niets nodig! We werken analoog. Met de hand gaan we een kaart maken over Foss4GN
 
 ___Workshop 3. Dashboard prototyping in R___
 
-Willy neemt ons mee in het bouwen van een Shiny App dashboard in R. Om mee te doen:
-* zorg dat je R en RStudio op je computer installeert of een RStudio Cloud account hebt.
-* het workshopmateriaal kan gedownload worden (vanaf dinsdag): [https://github.com/friesewoudloper/shiny-workshop](https://github.com/friesewoudloper/shiny-workshop)
+Helaas gaat workshop 3 niet meer door. Er zal meer tijd zijn in de middag voor Workshop 2: Geofiction & Roadmapping.
 
-Let op! De Middag sessies van de Maptime track beginnen 10 minuten eerder dan de presentaties zodat we iets langer de tijd hebben voor de workshops. Pak snel je lunch en koffie en kom op tijd!
- 
+
 Tot donderdag!
 
  
@@ -61,10 +58,7 @@ ___Workshop 2. Geofiction & Roadmapping___
 * No needs! We will work analogue to draw our own map of FOSS4GNL
 
 ___Workshop 3. Dashboard prototyping in R (spoken language will be Dutch)___
-Willy will take us along in building a Shiny App dashboard in R. To follow along:
-* Have R and RStudio installed on your computer. Or have a Rstudio Cloud account.
-* The workshop materials can be downloaded (from Tuesday) on : [https://github.com/friesewoudloper/shiny-workshop](https://github.com/friesewoudloper/shiny-workshop)
 
-Note! The afternoon sessions of the Maptime track start 10 minutes before the presentation tracks, so we have slightly longer the time for the workshops. Grab your lunch and coffee fast and make sure you are on time!
+Unfortunately workshop 3 is cancelled. There will be more time in the afternoon for workshop 2: Geofiction & Roadmapping. 
 
 See you Thursday! 
