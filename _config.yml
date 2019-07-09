@@ -43,10 +43,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Sprekers"}
 bottomNavigationLinks:
   #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
-  #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
+  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 rightNavigationButtons:
   #- {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2019-60886980598", text: "Aanmelden"}
-  #- {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
+  - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # About Block
 aboutTitle: "Over FOSS4GNL 2019"
