@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor/bundle']
 
 
 # Site Settings
-title: "FOSS4GNL 2019"
+title: "FOSS4GNL 2021"
 email: "foss4g@osgeo.nl"
-description: "FOSS4GNL conference website 2019"
+description: "FOSS4GNL conference website 2021"
 baseurl: ""
 url: "https://foss4g.nl"
 permalink: "/blog/:title"
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: ""
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "OSgeo.nl"
+organizerName: "OSGeo.nl"
 organizerAlternateName: "Open Source Geo Nederland"
 organizerDescription: "..."
 organizerEmail: "foss4g@osgeo.nl"
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.osgeo.nl/"
 
 # Head
-metaKeywords: "event, osgeo, conferentie, open source, geo, gis, delft, geographic, nederland"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, enschede, geographic, nederland"
 twitterAccount: "@osgeonl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
@@ -49,9 +49,9 @@ rightNavigationButtons:
   - {link: "https://github.com/osgeonl/osgeonl.github.io/tree/master/sitecontent/foss4gnl/2019", text: "Presentaties"}
 
 # About Block
-aboutTitle: "Over FOSS4GNL 2019"
+aboutTitle: "Over FOSS4GNL 2021"
 aboutBlock:
- - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "20 juni" }
+ - {title: "Conferentie", image: "3dgeoinfo.png", permalink: "/conference/", text: "20 oktober 2021}
 
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
@@ -66,16 +66,16 @@ latestNewsTitle: "Nieuws"
 
 # Location Block
 locationBlockTitle: "Locatie"
-eventLocationName: "Technische Universiteit Delft - Faculteit Bouwkunde"
-eventLocationLink: "https://3d.bk.tudelft.nl/about/#where"
-eventStreetAddress: "Julianalaan 134"
-eventAddressLocality: "Delft"
-eventAddressLocalityRegion: "Zuid-Holland"
-eventPostalCode: "2628 BL"
+eventLocationName: "Universiteit Twente - Faculteit Geo-Information Science and Earth Observation"
+eventLocationLink: "https://www.itc.nl/about-itc/contact/maps-route/"
+eventStreetAddress: "Hengelosestraat 99"
+eventAddressLocality: "Enschede"
+eventAddressLocalityRegion: "Overijssel"
+eventPostalCode: "7514 AE"
 eventAddressCountry: "Nederland"
-eventStartTime: "2019-06-20T10:00"
+eventStartTime: "2021-10-20T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2019-06-20T18:00"
+eventEndTime: "2021-10-20T18:00"
 eventPlaceCoordinates: "52.005694, 4.370651"
 eventPlaceLongitude: 4.370651
 eventPlaceLatitude: 52.005694
