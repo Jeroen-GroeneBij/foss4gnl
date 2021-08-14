@@ -26,7 +26,7 @@ organizerAlternateName: "Open Source Geo Nederland"
 organizerDescription: "..."
 organizerEmail: "foss4g@osgeo.nl"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://www.osgeo.nl/"
+organizerLink: "https://www.osgeo.nl/"
 
 # Head
 metaKeywords: "event, osgeo, conferentie, open source, geo, gis, enschede, geographic, nederland"
@@ -56,10 +56,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "delft_ahn3.jpg"
 statisticBlock:
- - {count: "3", specialCharacter: "", info: "keynotes", detail: ""}
- - {count: "20", specialCharacter: "", info: "uren", detail: ""}
- - {count: "23", specialCharacter: "", info: "sprekers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
+ - {count: "2", specialCharacter: "", info: "keynotes", detail: ""}
+ - {count: "?", specialCharacter: "", info: "uren", detail: ""}
+ - {count: "?", specialCharacter: "", info: "sprekers", detail: ""}
+ - {count: "?", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
